@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Test de Hardware</string>
+    <string name="principalListo">Pulsa comenzar cuando estes preparado para hacer el test</string>
+    <string name="comenzar">COMENZAR</string>
+    <string name="salir">SALIR</string>
+    <string name="pregunta">Elige el nombre del hardware de la figura</string>
+    <string name="preg1">Pregunta Nº1</string>
+    <string name="preg2">Pregunta Nº2</string>
+    <string name="preg3">Pregunta Nº3</string>
+    <string name="preg4">Pregunta Nº4</string>
+    <string name="siguiente">SIGUIENTE PREGUNTA</string>
+    <string name="vResultados">VER RESULTADOS</string>
+    <string name="resultado">RESULTADOS DEL TEST</string>
+    <string name="correctas">Preguntas correctas:</string>
+    <string name="erroneas">Preguntas erróneas</string>
+    <string name="sinContestar">Preguntas sin contestar:</string>
+    <string name="nota">NOTA:</string>
+    <string name="inicio">VOLVER AL INICIO</string>
+    <string name="nsnc">No Contesta</string>
+    <string name="fuenteAlimenta">Fuente de alimentación</string>
+    <string name="ram">Memoria RAM</string>
+    <string name="pBase">Placa base</string>
+    <string name="proc">Procesador</string>
+</resources>
